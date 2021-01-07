@@ -1,0 +1,40 @@
+TODO LIST Kingdom of the Spectra: Episode I
+
+Almondtree Games
+Affonso Amendola
+
+**-> Priority.
+
+** Script **
+-Story Outline
+-Actual Script of the cutscenes.
+
+Game Engine
+-SDL based
+-320x200 based on old lucasarts adventure games
+-Done from scratch, Bruno will hate this one.
+
+---OR
+-Use AGS-> Easiest solution, AGS is a tried and true method for developing point and click adventure games, most not fun solution.
+
+---OR
+-Try to use the opensourced part of the SCUMM engines
+-Not done from scratch, reutilize a bunch of already made code.
+-Not sure if possible
+-Bruno might not kill me.
+
+Background Images
+-Need to finish script to know where things will take place.
+
+Object Sprites
+
+Player Sprites
+-Aquamarine
+--Animation
+-Ultramarine
+--Animation
+
+Face Closeups
+-Aquamarine
+--Talking
+
